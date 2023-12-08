@@ -1,2 +1,2 @@
-# c
+# c++
 C++ libraries and examples.
