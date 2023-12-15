@@ -1,0 +1,2 @@
+add_executable(project_name project_name.cpp)
+target_link_libraries(project_name PRIVATE tool_library cxx_setup)

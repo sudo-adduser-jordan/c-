@@ -1,0 +1,18 @@
+homework_4/
+└── no_strings_attached/
+    ├── CMakeLists.txt
+    ├── external
+    │   ├── CMakeLists.txt
+    │   └── googletest/  # Googletest library as a submodule
+    ├── examples
+    │   ├── CMakeLists.txt
+    │   ├── split_strings.cpp
+    │   └── trim_strings.cpp
+    ├── no_strings_attached/
+    │   ├── CMakeLists.txt  # Defines all libraries
+    │   ├── split_string.cpp
+    │   ├── split_string.h
+    │   ├── split_string_test.cpp
+    │   └── ... # Same for all other libraries
+    ├── .clang-format
+    └── readme.md  # Description of your project. Go nuts!

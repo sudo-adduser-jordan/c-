@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/user1/Desktop/GitHub/cpp/examples/project_name/build/project_name/tool_library",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/tool_library.dir/includes_CXX.rsp -g -Wall -o CMakeFiles\\tool_library.dir\\tool.cpp.obj -c C:\\Users\\user1\\Desktop\\GitHub\\cpp\\examples\\project_name\\project_name\\tool_library\\tool.cpp",
+  "file": "C:/Users/user1/Desktop/GitHub/cpp/examples/project_name/project_name/tool_library/tool.cpp",
+  "output": "project_name/tool_library/CMakeFiles/tool_library.dir/tool.cpp.obj"
+},
+{
+  "directory": "C:/Users/user1/Desktop/GitHub/cpp/examples/project_name/build/executables",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/project_name.dir/includes_CXX.rsp -g -Wall -o CMakeFiles\\project_name.dir\\project_name.cpp.obj -c C:\\Users\\user1\\Desktop\\GitHub\\cpp\\examples\\project_name\\executables\\project_name.cpp",
+  "file": "C:/Users/user1/Desktop/GitHub/cpp/examples/project_name/executables/project_name.cpp",
+  "output": "executables/CMakeFiles/project_name.dir/project_name.cpp.obj"
+}
+]

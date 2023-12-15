@@ -1,4 +1,6 @@
 # C++ build files
+*/build
 *.exe
-*.ilk
-*.pdb
+
+# Visual Studio Code
+*.vscode
